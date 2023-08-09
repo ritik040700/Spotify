@@ -1,6 +1,6 @@
 # Spotify Clone
 
-![Spotify Clone Screenshot](bg.jpg) <!-- Replace with a screenshot of your project if available -->
+![Spotify Clone Screenshot](project.jpg) <!-- Replace with a screenshot of your project if available -->
 
 A clone of the leading online music platform, Spotify. This project allows users to listen to music and view music lyrics. Built using HTML, CSS, and Javascript.
 
@@ -37,11 +37,6 @@ A clone of the leading online music platform, Spotify. This project allows users
 5. Play and control music using the player controls.
 6. View song lyrics by clicking on the lyrics button.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-<!-- Add more screenshots if needed -->
 
 ## Technologies Used
 
